@@ -21,6 +21,7 @@
     "claudia": "^5.2.0"
   },
   "dependencies": {
+    "aws-xray-sdk": "^2.1.0",
     "claudia-api-builder": "^4.1.1"
   }
 }
