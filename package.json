@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "claudia create --version dev --region us-east-1 --api-module api"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/RolekTech/talks_aws_lambda_nodejs/issues"
   },
-  "homepage": "https://github.com/RolekTech/talks_aws_lambda_nodejs#readme"
+  "homepage": "https://github.com/RolekTech/talks_aws_lambda_nodejs#readme",
+  "devDependencies": {
+    "claudia": "^5.2.0"
+  },
+  "dependencies": {
+    "claudia-api-builder": "^4.1.1"
+  }
 }

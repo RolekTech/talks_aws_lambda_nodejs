@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "talks_aws_lambda_nodejs-executor",
+    "name": "talks_aws_lambda_nodejs",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "dkc4kh03pe",
+    "module": "app"
+  }
+}
