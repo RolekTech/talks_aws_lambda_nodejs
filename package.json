@@ -1,0 +1,19 @@
+{
+  "name": "talks_aws_lambda_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RolekTech/talks_aws_lambda_nodejs.git"
+  },
+  "author": "chuck@rolek.tech",
+  "license": "NAFU",
+  "bugs": {
+    "url": "https://github.com/RolekTech/talks_aws_lambda_nodejs/issues"
+  },
+  "homepage": "https://github.com/RolekTech/talks_aws_lambda_nodejs#readme"
+}
